@@ -19,7 +19,7 @@
 
 #### Contact Me 😉 ####
 * Instagram : [insta](https://www.instagram.com/__siddhant.mittal__/)
-* Mail: [me](mailto: siddhantmittal2001@gmail.com)
+* Mail: [me](https://siddhantmittal2001@gmail.com)
 
 _![Github stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)_
 
