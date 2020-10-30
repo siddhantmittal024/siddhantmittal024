@@ -1,6 +1,6 @@
-## Hello Everyone👋
+## _Hello Everyone👋_
 
-_I'm Siddhant!_
+_**I'm Siddhant!**_
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)
 
