@@ -1,3 +1,3 @@
 # SiddhantMittal
-![Github stats](https://github-readme-stats.vercel.app/api?siddhantmittal024)
+![Github stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)
 
