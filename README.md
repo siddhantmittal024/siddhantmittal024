@@ -4,7 +4,7 @@
 
 #### Wanna know about me 😎 ####
 * I am a **Computer Science** UnderGrad at [Shiv Nadar University](https://www.snu.edu.in/)
-* I am a **React**,**Node** and **Flutter** Developer
+* I am a **React**, **Node** and **Flutter** Developer
 
 #### My Interests 👨‍💻 ####
 * I play **Badminton**🏸
@@ -19,7 +19,7 @@
 
 #### Contact Me 😉 ####
 * Instagram : [insta](https://www.instagram.com/__siddhant.mittal__/)
-* Mail: [me](https://siddhantmittal2001@gmail.com)
+* Mail: [me](mailto:siddhantmittal2001@gmail.com?subject=GitHub)
 
 _![Github stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)_
 
