@@ -1,4 +1,4 @@
-## _Hello Everyone👋_
+## _Hello Everyone_
 
 ### _I'm Siddhant!_ ###
 
