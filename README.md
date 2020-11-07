@@ -1,5 +1,3 @@
-## _Hello Everyone_
-
 ### _I'm Siddhant!_ ###
 
 #### Wanna know about me 😎 ####
