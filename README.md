@@ -1,4 +1,4 @@
-### _I'm Siddhant!_ ###
+### _I'm Siddhant!😉_ ###
 
 #### Wanna know about me 😎 ####
 * I am a **Computer Science** UnderGrad at [Shiv Nadar University](https://www.snu.edu.in/)
