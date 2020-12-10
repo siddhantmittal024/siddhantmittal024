@@ -20,5 +20,4 @@
 * Mail: [gmail](mailto:siddhantmittal2001@gmail.com?subject=GitHub)
 * Linkedin: [linkedin](https://www.linkedin.com/in/siddhant-mittal-9b56111a4)
 
-_![Github stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)_
 
