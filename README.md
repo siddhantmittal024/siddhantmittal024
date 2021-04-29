@@ -20,6 +20,6 @@
 * Mail: [gmail](mailto:siddhantmittal2001@gmail.com?subject=GitHub)
 * Linkedin: [linkedin](https://www.linkedin.com/in/siddhant-mittal-9b56111a4)
 
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024&show_icons=true&count_private=true&theme=tokyonight)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmittal024&layout=compact&theme=tokyonight)
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024&show_icons=true&count_private=true&theme=tokyonight) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmittal024&layout=compact&theme=tokyonight)
 
 
