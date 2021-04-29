@@ -12,8 +12,8 @@
 
 #### My Journey as a Programmer 💻 ####
 * Currently learning **React** and **Node**
-* Planning to explore **Typescript** and **GraphQL**
-* Learning **Data Structure and Algorithms**
+* Started exploring **Typescript** and **GraphQL**
+* Learning and Practicing **Data Structure and Algorithms**
 
 #### Contact Me 😉 ####
 * Instagram : [insta](https://www.instagram.com/__siddhant.mittal__/)
