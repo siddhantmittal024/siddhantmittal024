@@ -21,3 +21,5 @@
 * Linkedin: [linkedin](https://www.linkedin.com/in/siddhant-mittal-9b56111a4)
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024)](https://github.com/anuraghazra/github-readme-stats)
+
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024&count_private=true)
