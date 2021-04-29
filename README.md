@@ -11,7 +11,7 @@
 * **Coding** is ❤
 
 #### My Journey as a Programmer 💻 ####
-* Currently learning **React** and **Node**
+* Currently learning **Typescript** and **Node**
 * Started exploring **Typescript** and **GraphQL**
 * Learning and Practicing **Data Structure and Algorithms**
 
