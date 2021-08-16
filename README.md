@@ -5,9 +5,7 @@
 * I am a **React**, **Node** and **Flutter** Developer
 
 #### My Interests 👨‍💻 ####
-* I play **Badminton**🏸
 * I'm a big fan of **Football** and **Cricket** and love watching it
-* I love **Travelling**
 * **Coding** is ❤
 
 #### My Journey as a Programmer 💻 ####
