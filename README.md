@@ -2,7 +2,7 @@
 
 #### Wanna know about me 😎 ####
 * I am a **Computer Science** UnderGrad at [Shiv Nadar University](https://www.snu.edu.in/)
-* I am a **React**, **Node** and **Flutter** Developer
+* I am a **React**, **Node** Developer
 
 #### My Interests 👨‍💻 ####
 * I'm a big fan of **Football** and **Cricket** and love watching it
