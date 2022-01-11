@@ -13,6 +13,15 @@
 * Started exploring **Typescript** and **GraphQL**
 * Learning and Practicing **Data Structure and Algorithms**
 
+#### Currently Studying 📚 ####
+* Software Engineering
+* Computer Networks
+* Theory of Computation
+* Machine Learning Through R.
+* Foundation of Data Science
+* Intro to Machine Learning
+* Analytics and Business Modelling using Excel 
+
 #### Contact Me 😉 ####
 * Instagram : [insta](https://www.instagram.com/__siddhant.mittal__/)
 * Mail: [gmail](mailto:siddhantmittal2001@gmail.com?subject=GitHub)
