@@ -9,8 +9,8 @@
 * **Coding** is ❤
 
 #### My Journey as a Programmer 💻 ####
-* Currently learning **Typescript** and **Node**
-* Started exploring **Typescript** and **GraphQL**
+* Currently learning **Typescript**
+* Started exploring **Machine Learning** and **Docker**
 * Learning and Practicing **Data Structure and Algorithms**
 
 #### Currently Studying 📚 ####
@@ -19,7 +19,6 @@
 * Theory of Computation
 * Machine Learning Through R.
 * Foundation of Data Science
-* Intro to Machine Learning
 * Analytics and Business Modelling using Excel 
 
 #### Contact Me 😉 ####
