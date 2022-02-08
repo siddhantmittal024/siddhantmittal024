@@ -22,7 +22,7 @@
 * Analytics and Business Modelling using Excel 
 
 #### Contact Me 😉 ####
-* (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/__siddhant.mittal__/)
+* [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__siddhant.mittal__/)
 * Mail: [gmail](mailto:siddhantmittal2001@gmail.com?subject=GitHub)
 * Linkedin: [linkedin](https://www.linkedin.com/in/siddhant-mittal-9b56111a4)
 
