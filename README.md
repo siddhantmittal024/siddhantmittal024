@@ -6,7 +6,8 @@
 
 #### My Interests 👨‍💻 ####
 * I'm a big fan of **Football** and **Cricket** and love watching it
-* **Coding** is ❤
+* I play games ocassionally 
+* Love exploring new stuff
 
 #### My Journey as a Programmer 💻 ####
 * Currently learning **Typescript**
@@ -29,5 +30,3 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-mittal-9b56111a4)
 
 ![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantmittal024&show_icons=true&count_private=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmittal024&layout=compact&theme=tokyonight)
-
-
