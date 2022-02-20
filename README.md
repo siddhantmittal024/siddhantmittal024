@@ -12,7 +12,7 @@
 #### My Journey as a Programmer 💻 ####
 * Currently learning **Typescript**
 * Started exploring **Machine Learning**, **Data Science** and **Docker**
-* Learning and Practicing **Data Structure and Algorithms**
+* Learning and Practicing **Data Structures and Algorithms**
 
 #### Currently Studying 📚 ####
 * Software Engineering
