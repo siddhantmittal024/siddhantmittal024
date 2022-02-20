@@ -7,11 +7,11 @@
 #### My Interests 👨‍💻 ####
 * I'm a big fan of **Football** and **Cricket** and love watching it
 * I play games ocassionally 
-* Love exploring new stuff
+* Loves exploring new stuff
 
 #### My Journey as a Programmer 💻 ####
 * Currently learning **Typescript**
-* Started exploring **Machine Learning** and **Docker**
+* Started exploring **Machine Learning**, **Data Science** and **Docker**
 * Learning and Practicing **Data Structure and Algorithms**
 
 #### Currently Studying 📚 ####
