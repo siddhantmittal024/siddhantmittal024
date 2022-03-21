@@ -5,7 +5,7 @@
 * I am a **React**, **Node** Developer  
 
 #### My Interests 👨‍💻 ####
-* I'm a big fan of **Football** and **Cricket** and love watching it
+* I'm a big fan of **Football** and **Cricket**
 * I play games ocassionally 
 * Loves exploring new stuff
 
