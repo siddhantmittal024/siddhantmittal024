@@ -21,7 +21,6 @@
 * Machine Learning Through R.
 * Foundation of Data Science
 * Analytics and Business Modelling using Excel 
-* Introduction to Robotics
 
 #### Contact Me 😉 ####
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__siddhant.mittal__/)
