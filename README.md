@@ -10,17 +10,14 @@
 * Loves exploring new stuff
 
 #### My Journey as a Programmer 💻 ####
-* Currently learning **Typescript**
-* Started exploring **Machine Learning**, **Data Science** and **Docker**
+* Currently learning **Typescript** and **DevOps Essentials**
+* Started exploring **Cloud Computing**, **Data Science** and **Docker**
 * Learning and Practicing **Data Structures and Algorithms**
 
 #### Currently Studying 📚 ####
-* Software Engineering
-* Computer Networks
-* Theory of Computation
-* Machine Learning Through R.
-* Foundation of Data Science
-* Analytics and Business Modelling using Excel 
+* Virtualization and Cloud Computing
+* Applied Cryptography
+* Algebra-1
 
 #### Contact Me 😉 ####
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__siddhant.mittal__/)
