@@ -1,6 +1,7 @@
 ### _I'm Siddhant!😉_ ###
 
 #### Wanna know about me 😎 ####
+* Started working at **Palo Alto Networks Inc.** as **IT Software Developer**
 * I am a **Computer Science** UnderGrad at [Shiv Nadar University](https://www.snu.edu.in/)
 * I am a **React**, **Node**, **Java** Developer  
 
@@ -8,8 +9,6 @@
 * I'm a big fan of **Football** and **Cricket**
 * I play games ocassionally 
 * Loves exploring new stuff
-
-### Started working at **Palo Alto Networks Inc.** as **IT Software Developer** ###
 
 #### Contact Me 😉 ####
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__siddhant.mittal__/)
