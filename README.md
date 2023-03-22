@@ -2,22 +2,14 @@
 
 #### Wanna know about me 😎 ####
 * I am a **Computer Science** UnderGrad at [Shiv Nadar University](https://www.snu.edu.in/)
-* I am a **React**, **Node** Developer  
+* I am a **React**, **Node**, **Java** Developer  
 
 #### My Interests 👨‍💻 ####
 * I'm a big fan of **Football** and **Cricket**
 * I play games ocassionally 
 * Loves exploring new stuff
 
-#### My Journey as a Programmer 💻 ####
-* Currently learning **Typescript** and **DevOps Essentials**
-* Started exploring **Cloud Computing**, **Data Science** and **Docker**
-* Learning and Practicing **Data Structures and Algorithms**
-
-#### Currently Studying 📚 ####
-* Virtualization and Cloud Computing
-* Applied Cryptography
-* Algebra-1
+#### Started working at **Palo Alto Networks Inc.** as **IT Software Developer** ####
 
 #### Contact Me 😉 ####
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__siddhant.mittal__/)
